@@ -1,3 +1,1 @@
-# COMP397-W2021-Lesson5a
-SIMON IS HERE 
-Demo project for Week 7
+# COMP397-W2021-Lesson7
